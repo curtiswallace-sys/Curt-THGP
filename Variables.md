@@ -3,11 +3,11 @@ A Programming Language.
 <br>
 
 2. What is Syntax?
-The grammer of a programming language.
+The grammar of a programming language.
 <br>
 
 3. Why are we learning about Python over any other programming language?
-Python is very popular for its simplicity and versatality.
+Python is very popular for its simplicity and versatility.
 <br>
 
 4. What are some of the benefits of using Python?
