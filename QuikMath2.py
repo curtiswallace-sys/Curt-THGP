@@ -23,6 +23,13 @@ print(" ")
 print("Divide:")
 print(result)
 
+def multiplication(a, b):
+    return a * b
+result = multiplication(6, 5)
+print(" ")
+print("Multiplication:")
+print(result)
+
 def averages(numbers):
     return sum(numbers) / len(numbers)
 result = averages([33, 11, 20,])
