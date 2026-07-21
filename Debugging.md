@@ -13,5 +13,7 @@ Figuring out how to solve a problem with your code
 4. Name at least 3 types of bugs you can encounter and define each one.
 
 Name Error: Using a variable or function that doesn’t exist
+<br>
 Syntax Error: Code not having the syntax language
+<br>
 Logic Error: Code that runs but gives wrong results.
